@@ -1,0 +1,168 @@
+#1:
+The final marketing budget allocation is:
+TV advertising  -> 2.79k
+Google  -> 82.29k
+Twitter  -> 0.09k
+Facebook  -> 14.55k
+The total profit is 11.71k
+____________________________
+#2:
+The final marketing budget allocation is:
+TV advertising  -> 3.21k
+Google  -> 29.54k
+Twitter  -> 1.91k
+Facebook  -> 64.98k
+The total profit is 11.08k
+____________________________
+#3:
+The final marketing budget allocation is:
+TV advertising  -> 3.20k
+Google  -> 55.88k
+Twitter  -> 2.87k
+Facebook  -> 38.03k
+The total profit is 11.35k
+____________________________
+#4:
+The final marketing budget allocation is:
+TV advertising  -> 16.12k
+Google  -> 49.03k
+Twitter  -> 0.64k
+Facebook  -> 33.43k
+The total profit is 10.90k
+____________________________
+#5:
+The final marketing budget allocation is:
+TV advertising  -> 4.06k
+Google  -> 67.59k
+Twitter  -> 0.04k
+Facebook  -> 27.30k
+The total profit is 11.44k
+____________________________
+#6:
+The final marketing budget allocation is:
+TV advertising  -> 2.85k
+Google  -> 66.05k
+Twitter  -> 4.13k
+Facebook  -> 26.96k
+The total profit is 11.41k
+____________________________
+#7:
+The final marketing budget allocation is:
+TV advertising  -> 11.86k
+Google  -> 71.63k
+Twitter  -> 0.04k
+Facebook  -> 16.45k
+The total profit is 11.36k
+____________________________
+#8:
+The final marketing budget allocation is:
+TV advertising  -> 2.96k
+Google  -> 85.94k
+Twitter  -> 0.97k
+Facebook  -> 10.08k
+The total profit is 11.73k
+____________________________
+#9:
+The final marketing budget allocation is:
+TV advertising  -> 3.78k
+Google  -> 84.39k
+Twitter  -> 1.61k
+Facebook  -> 10.19k
+The total profit is 11.66k
+____________________________
+#10:
+The final marketing budget allocation is:
+TV advertising  -> 4.09k
+Google  -> 72.54k
+Twitter  -> 0.03k
+Facebook  -> 22.81k
+The total profit is 11.54k
+____________________________
+#11:
+The final marketing budget allocation is:
+TV advertising  -> 6.61k
+Google  -> 77.56k
+Twitter  -> 2.39k
+Facebook  -> 13.16k
+The total profit is 11.45k
+____________________________
+#12:
+The final marketing budget allocation is:
+TV advertising  -> 2.71k
+Google  -> 74.66k
+Twitter  -> 5.09k
+Facebook  -> 17.52k
+The total profit is 11.46k
+____________________________
+#13:
+The final marketing budget allocation is:
+TV advertising  -> 3.04k
+Google  -> 68.04k
+Twitter  -> 1.19k
+Facebook  -> 27.49k
+The total profit is 11.51k
+____________________________
+#14:
+The final marketing budget allocation is:
+TV advertising  -> 3.20k
+Google  -> 67.24k
+Twitter  -> 0.38k
+Facebook  -> 29.05k
+The total profit is 11.55k
+____________________________
+#15:
+The final marketing budget allocation is:
+TV advertising  -> 3.79k
+Google  -> 56.09k
+Twitter  -> 1.55k
+Facebook  -> 36.83k
+The total profit is 11.19k
+____________________________
+#16:
+The final marketing budget allocation is:
+TV advertising  -> 2.75k
+Google  -> 74.65k
+Twitter  -> 0.01k
+Facebook  -> 20.98k
+The total profit is 11.49k
+____________________________
+#17:
+The final marketing budget allocation is:
+TV advertising  -> 3.83k
+Google  -> 65.83k
+Twitter  -> 5.70k
+Facebook  -> 24.62k
+The total profit is 11.31k
+____________________________
+#18:
+The final marketing budget allocation is:
+TV advertising  -> 3.08k
+Google  -> 53.74k
+Twitter  -> 1.64k
+Facebook  -> 40.69k
+The total profit is 11.29k
+____________________________
+#19:
+The final marketing budget allocation is:
+TV advertising  -> 3.78k
+Google  -> 61.08k
+Twitter  -> 0.47k
+Facebook  -> 34.63k
+The total profit is 11.47k
+____________________________
+#20:
+The final marketing budget allocation is:
+TV advertising  -> 12.36k
+Google  -> 66.40k
+Twitter  -> 0.51k
+Facebook  -> 20.54k
+The total profit is 11.25k
+____________________________
+____________________________
+Best fitness = 11.73
+The final marketing budget allocation is:
+TV advertising  -> 2.96k
+Google  -> 85.94k
+Twitter  -> 0.97k
+Facebook  -> 10.08k
+The total profit is 11.73k
